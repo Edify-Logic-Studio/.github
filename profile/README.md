@@ -1,6 +1,6 @@
-# 👋 Welcome to Edify Logic Studio
+# 👋 Welcome to Edify Leading Solutions
 
-**Edify Logic Studio LLC** is a B2B software development agency specializing in engineering robust, scalable, and high-performance technology tailored to modern enterprise needs.
+**Edify Leading Solutions LLC** is a B2B software development agency specializing in engineering robust, scalable, and high-performance technology tailored to modern enterprise needs.
 
 ## 🚀 What We Build
 
@@ -31,7 +31,6 @@ We are always open to discussing new projects, partnerships, and technical chall
 
 * **Website:** [www.edifyls.com](https://www.edifyls.com)
 * **Email:** eduardo@edifyls.com
-* **Headquarters:** 8117 Red Fox Ln, Mission, TX 78574
 
 ---
-*© 2026 Edify Logic Studio LLC. All rights reserved.*
+*© 2026 Edify Leading Solutions LLC. All rights reserved.*
